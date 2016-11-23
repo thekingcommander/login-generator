@@ -4,7 +4,7 @@ import java.text.Normalizer;
 import java.util.regex.Pattern;
 
 /**
- * Classe representant un g enerateur de login
+ * Classe representant un generateur de login
  */
 public class LoginGenerator {
 
